@@ -1,3 +1,11 @@
+# https://didit-reddit-upvote-dun.vercel.app/
+
+## What I did:
+
+-- Deployed to Vercel  
+-- Fix page titles on post pages to match the post title.  
+-- Handle the error when you click to vote while not logged in to show a nice error message
+
 ## Upvote
 
 Upvote is a Reddit-esque web application that allows users to create posts, upvote and downvote posts, and comment on posts in a multi-threaded, nested list.
